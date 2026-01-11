@@ -25,6 +25,7 @@ Getting Started
 * OpenAI: It is a ChatGPT library.
 * ApSchedular: To Schedular cron Jobs
 * Asyncio: To handle asynchronous programming in Python.
+* Function Framework: To create serverless functions in GCP
 
 
 <h2>Contributing</h2>
