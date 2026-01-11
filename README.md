@@ -1,8 +1,6 @@
 <h1>Python Package Exploration Repository</h1>
 
 
-<h2>Python Package Exploration Repository</h2>
-
 * Welcome to our Python package exploration repository! This repository is dedicated to exploring Python packages and providing examples to demonstrate their usage.
 
 <h2> Purpose</h2>
@@ -26,6 +24,7 @@ Getting Started
 * Pypika: It is used to generate SQL queries in Pythonic ways
 * OpenAI: It is a ChatGPT library.
 * ApSchedular: To Schedular cron Jobs
+* Asyncio: To handle asynchronous programming in Python.
 
 
 <h2>Contributing</h2>
